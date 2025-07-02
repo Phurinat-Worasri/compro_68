@@ -1,0 +1,6 @@
+print("Hello, world!!")
+print('Phurinat Worasri')
+print("I'am hungry")
+print("I'm good \"and I will do my best\"")
+print('/\\')
+print('\ta\na\ta\ta\n\ta')
